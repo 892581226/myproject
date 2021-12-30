@@ -7,6 +7,7 @@
         <a
           href="https://vuejs.org"
           target="_blank"
+          class="li_style"
         >
           Core Docs
         </a>
@@ -109,5 +110,9 @@ li {
 }
 a {
   color: #42b983;
+  font-size: 50px;
+}
+.li_style{
+  font-size: 100px;
 }
 </style>
